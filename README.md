@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rhea4green
+- 👋 Hi, I’m @pingfisher
 - 👀 I’m interested in Go
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
